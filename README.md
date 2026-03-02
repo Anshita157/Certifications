@@ -12,7 +12,8 @@ This repository contains verified certifications and participation records that 
 - **Event Name:** Slide The Change (SHE ASPIRE 2.0)  
 - **Date:** 28 June 2025  
 - **Role:** Participant  
-
+- **Presentation:** [View PDF](./AnsitaJena_SlideTheChange.pdf)
+  
 **Description:**  
 Participated in *Slide The Change*, a competition conducted under IEEE SHE ASPIRE 2.0, focused on promoting innovation, empowerment, and awareness in engineering and technology. The event encouraged creative problem articulation, structured presentation, and critical thinking on socially relevant technical themes.
 
