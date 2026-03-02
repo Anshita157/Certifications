@@ -16,6 +16,6 @@ This repository contains verified certifications and participation records that 
 **Description:**  
 Participated in *Slide The Change*, a competition conducted under IEEE SHE ASPIRE 2.0, focused on promoting innovation, empowerment, and awareness in engineering and technology. The event encouraged creative problem articulation, structured presentation, and critical thinking on socially relevant technical themes.
 
-- **Certificate:** [View PDF](./IEEE_SHE_ASPIRE_2.0_Slide_The_Change.pdf)
+- **Certificate:** [View PDF](./Ansita Jena .pdf)
 
 📌 *Certificates are authentic and can be verified if required.*
