@@ -31,6 +31,6 @@ Participated in *Slide The Change*, a competition conducted under IEEE SHE ASPIR
 **Description:**  
 Successfully completed a foundational course on HTML5, covering semantic elements, document structure, forms, multimedia integration, and best practices for modern web development. Gained practical understanding of structuring responsive and standards-compliant web pages.
 
-- **Certificate:** [View PDF](./HTML5_Certificate.pdf)
+- **Certificate:** [View PDF](./HTML5_certificate.pdf)
   
 📌 *Certificates are authentic and can be verified if required.*
