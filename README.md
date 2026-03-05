@@ -32,5 +32,20 @@ Participated in *Slide The Change*, a competition conducted under IEEE SHE ASPIR
 Successfully completed a foundational course on HTML5, covering semantic elements, document structure, forms, multimedia integration, and best practices for modern web development. Gained practical understanding of structuring responsive and standards-compliant web pages.
 
 - **Certificate:** [View PDF](./HTML5_certificate.pdf)
+
+## 💼 Deloitte – Technology Job Simulation (Forage)
+
+- **Organization:** Deloitte
+- **Platform:** Forage Virtual Experience Program
+- **Completion Date:** 6 December 2025
+- **Type:** Virtual Job Simulation
+
+**Description:**  
+Completed the Deloitte Technology Job Simulation program on the Forage platform. The experience involved performing practical tasks related to software development and coding, providing exposure to real-world workflows followed by technology teams at Deloitte.
+
+Through this simulation, I gained insight into problem-solving approaches, development practices, and the type of work performed in professional technology consulting environments.
+
+- **Skills Demonstrated:** Coding, Software Development, Problem Solving
+- **Certificate:** [View PDF](./Deloitte_Technology_Job_Simulation_Ansita_Jena.pdf)
   
 📌 *Certificates are authentic and can be verified if required.*
