@@ -19,4 +19,18 @@ Participated in *Slide The Change*, a competition conducted under IEEE SHE ASPIR
 
 - **Certificate:** [View PDF](./IEEE_SHE_ASPIRE_2.0_Slide_The_Change.pdf)
 
+
+## 🌐 HTML5 – The Language
+
+- **Course Title:** HTML5 – The Language  
+- **Completion Date:** 28 February 2026  
+- **Mode:** Online Course  
+- **Verification:** https://verify.onwingspan.com  
+- **Role:** Course Participant  
+
+**Description:**  
+Successfully completed a foundational course on HTML5, covering semantic elements, document structure, forms, multimedia integration, and best practices for modern web development. Gained practical understanding of structuring responsive and standards-compliant web pages.
+
+- **Certificate:** [View PDF](./HTML5_Certificate_Ansita_Jena.pdf)
+  
 📌 *Certificates are authentic and can be verified if required.*
