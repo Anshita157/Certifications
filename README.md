@@ -69,6 +69,6 @@ Contributed to the development of an IPO Web Application by building frontend co
 - Improved understanding of **frontend development workflows and API integration** in real-world applications.
 
 **Skills Applied:**  Frontend Development, ReactJS, REST API Integration, Component-Based UI Design
-**Certificate:** [View PDF]()
+**Certificate:** [View PDF](./Bluestock_internship_certificate.pdf)
 
 📌 *Certificates are authentic and can be verified if required.*
