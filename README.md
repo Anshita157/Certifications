@@ -20,7 +20,7 @@ Participated in *Slide The Change*, a competition conducted under IEEE SHE ASPIR
 - **Certificate:** [View PDF](./IEEE_SHE_ASPIRE_2.0_Slide_The_Change.pdf)
 
 
-## 🌐 HTML5 – The Language
+## 🌐 HTML5 – The Language (Course)
 
 - **Course Title:** HTML5 – The Language  
 - **Completion Date:** 28 February 2026  
@@ -32,6 +32,7 @@ Participated in *Slide The Change*, a competition conducted under IEEE SHE ASPIR
 Successfully completed a foundational course on HTML5, covering semantic elements, document structure, forms, multimedia integration, and best practices for modern web development. Gained practical understanding of structuring responsive and standards-compliant web pages.
 
 - **Certificate:** [View PDF](./HTML5_certificate.pdf)
+
 
 ## 💼 Deloitte – Technology Job Simulation (Forage)
 
@@ -47,5 +48,27 @@ Through this simulation, I gained insight into problem-solving approaches, devel
 
 - **Skills Demonstrated:** Coding, Software Development, Problem Solving
 - **Certificate:** [View PDF](./Deloitte_Technology_Job_Simulation_Ansita_Jena.pdf)
-  
+
+
+
+## 💻 IPO Web App & REST API – Frontend Development (Internship)
+
+- **Role:** Software Development Engineer Intern  
+- **Organization:** Bluestock Fintech  
+- **Duration:** December 2025 – January 2026  
+- **Technology:** ReactJS , REST APIs
+
+**Description:**  
+Contributed to the development of an IPO Web Application by building frontend components and integrating them with backend REST APIs. The work focused on designing and implementing core features for the IPO platform interface.
+
+**Key Contributions:**
+- Developed frontend components using **ReactJS**.
+- Designed and implemented the **Upcoming IPO Web Page** for displaying IPO listings.
+- Integrated **REST APIs** to fetch and render dynamic IPO data.
+- Applied **component-based architecture** to build reusable UI elements.
+- Improved understanding of **frontend development workflows and API integration** in real-world applications.
+
+**Skills Applied:**  Frontend Development, ReactJS, REST API Integration, Component-Based UI Design
+**Certificate:** [View PDF]()
+
 📌 *Certificates are authentic and can be verified if required.*
