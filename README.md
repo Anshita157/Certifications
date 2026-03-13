@@ -4,22 +4,6 @@ This repository contains verified certifications and participation records that 
 
 ---
 
-## 🎤 IEEE SHE ASPIRE 2.0 – Slide The Change (Participation)
-
-- **Organization:** IEEE VSSUT Burla Student Branch  
-- **Affinity Group:** IEEE Women in Engineering (WIE)  
-- **Event Type:** Technical / Ideation Competition  
-- **Event Name:** Slide The Change (SHE ASPIRE 2.0)  
-- **Date:** 28 June 2025  
-- **Role:** Participant  
-- **Presentation:** [View PDF](./AnsitaJena_SlideTheChange.pdf)
-  
-**Description:**  
-Participated in *Slide The Change*, a competition conducted under IEEE SHE ASPIRE 2.0, focused on promoting innovation, empowerment, and awareness in engineering and technology. The event encouraged creative problem articulation, structured presentation, and critical thinking on socially relevant technical themes.
-
-- **Certificate:** [View PDF](./IEEE_SHE_ASPIRE_2.0_Slide_The_Change.pdf)
-
-
 ## 🌐 HTML5 – The Language (Course)
 
 - **Course Title:** HTML5 – The Language  
@@ -71,4 +55,36 @@ Contributed to the development of an IPO Web Application by building frontend co
 **Skills Applied:**  Frontend Development, ReactJS, REST API Integration, Component-Based UI Design
 **Certificate:** [View PDF](./Bluestock_internship_certificate.pdf)
 
+
+### S.O.L.I.D Principles Masterclass Certificate
+
+This certificate was awarded for participating in the **S.O.L.I.D Principles Every Developer Must Know Masterclass** conducted by Scaler on 12th March 2026.
+
+Key concepts covered:
+- Single Responsibility Principle (SRP)
+- Open/Closed Principle (OCP)
+- Liskov Substitution Principle (LSP)
+- Interface Segregation Principle (ISP)
+- Dependency Inversion Principle (DIP)
+
+**Certificate:** [View PDF](./solid_principles_masterclass_scaler_certificate.pdf)
+
+
+## 🎤 IEEE SHE ASPIRE 2.0 – Slide The Change (Participation)
+
+- **Organization:** IEEE VSSUT Burla Student Branch  
+- **Affinity Group:** IEEE Women in Engineering (WIE)  
+- **Event Type:** Technical / Ideation Competition  
+- **Event Name:** Slide The Change (SHE ASPIRE 2.0)  
+- **Date:** 28 June 2025  
+- **Role:** Participant  
+- **Presentation:** [View PDF](./AnsitaJena_SlideTheChange.pdf)
+  
+**Description:**  
+Participated in *Slide The Change*, a competition conducted under IEEE SHE ASPIRE 2.0, focused on promoting innovation, empowerment, and awareness in engineering and technology. The event encouraged creative problem articulation, structured presentation, and critical thinking on socially relevant technical themes.
+
+- **Certificate:** [View PDF](./IEEE_SHE_ASPIRE_2.0_Slide_The_Change.pdf)
+
+
+These principles are fundamental to writing clean, maintainable, and scalable object-oriented software.
 📌 *Certificates are authentic and can be verified if required.*
